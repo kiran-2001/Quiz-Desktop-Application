@@ -30,7 +30,7 @@ public class Login_user extends JFrame implements ActionListener{
         textField.setBounds(210, 93, 157, 20);
         panel.add(textField);
 
-        JLabel l2 = new JLabel("Password : ");
+        JLabel l2 = new JLabel("Password: ");
         l2.setBounds(124, 124, 95, 24);
         panel.add(l2);
 
