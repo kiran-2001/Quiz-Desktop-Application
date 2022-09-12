@@ -1,0 +1,7 @@
+--------------------Quiz App-------------------
+
+Database Quries :
+
+1. create database rit;
+2. use rit;
+3. create table (username varchar(50) , name varchar(50), password varchar(50), sec_q varchar(255), sec_ans varchar(255));
